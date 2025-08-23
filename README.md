@@ -13,5 +13,18 @@ Disclaimer: This analysis is intended for educational and research purposes only
 - Proceed with statistical modeling
 
 # Libraries used
+- pandas
+- numpy
+- statsmodels
+- seaborn
+- matplotlib
+- tableone # for summary statistics
+- scipy.cluster
+- missingno # for missing data visualization
+- requests
+- census
+- us
+- warnings
+- collections # OrderedDict to maintain the order of columns
 
 # Content
