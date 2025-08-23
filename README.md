@@ -28,3 +28,4 @@ Disclaimer: This analysis is intended for educational and research purposes only
 - collections # OrderedDict to maintain the order of columns
 
 # Content
+The report is accessible on the __acs-cdc.ipynb_  file
